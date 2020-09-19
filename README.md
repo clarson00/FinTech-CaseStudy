@@ -1,3 +1,4 @@
 # FinTech 
 Christopher Larson
-CCIE, PMP, Pythonista
+CCIE, PMP, Python
+Trying NOT to work to hard
