@@ -1,5 +1,6 @@
-## My FinTech class repositry. 
-![Image of Fintech](https://yt3.ggpht.com/a-/AOh14Gi9mDbwftnzX5o3AxL-XV75Hbb9awaKa0kASwIa=s100-c-k-c0xffffffff-no-rj-mo)Christopher Larson
+## My FinTech class repositry. ![Image of Fintech](https://yt3.ggpht.com/a-/AOh14Gi9mDbwftnzX5o3AxL-XV75Hbb9awaKa0kASwIa=s100-c-k-c0xffffffff-no-rj-mo)
+
+Christopher Larson
 
 CCIE, PMP, Python
 
