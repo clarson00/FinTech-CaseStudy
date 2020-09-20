@@ -20,11 +20,13 @@
 
 *"To automate and simplify the transaction process between people and/or organizations around the world through the use of well-built decentralized finance applications, eliminating the need for middlemen and 3rd party intermediaries."*
 
-    \- Jeff Kirdeikis, CEO
+    - Jeff Kirdeikis, CEO
 
 * **TS SmartLock are Time or event based crypto lockups and payments.**
 * **TS SmartSwap will allow reliable trustless escrow based transactions including OTC trades.**
-* **TS SmartSubscription will allow recurring crypto payments. For examples, bill payments or allowances.**
-* **TS SmartLaunch & SmartWrap Crypto launchpad. This service allows projects to wrap, launch, and lock OTC funding while securing time-based or event based distribution locks to ensure distribution cannot be dumped on the market. These servies will eventually be offered outside of the SmartLaunch service**
+* **TS SmartSubscription will allow recurring crypto payments.**
+     For examples, bill payments or allowances.
+* **TS SmartLaunch & SmartWrap Crypto launchpad.**
+    This service allows projects to wrap, launch, and lock OTC funding while securing time-based or event based distribution locks to ensure distribution cannot be dumped on the market. These servies will eventually be offered outside of the SmartLaunch service.
 
 The target customer for trustswap is any consumer be they retail or intitutional who relies on these types of services but is currently paying much higher rates and fees to attorneys, and other entities to create agreements that could be done using TrustSwap services for less costs, paperwork, and obverhead in general. It could also be argued that the smart contract means of agreement can be more reliable than traditional services.
