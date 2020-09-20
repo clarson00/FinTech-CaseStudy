@@ -1,4 +1,4 @@
-# ![ts](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2400%2F1*hRlclGnA0noiX9O4Te_iXg.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40TrustSwap%2Fintroducing-the-trustswap-launchpad-smartlaunch-trustswap-coin-offerings-tcos-bfc10ce68e8%3Fsource%3Drss------blockchain-5&tbnid=qIxvLAqjqClkKM&vet=12ahUKEwiB2ZSevfjrAhUsm-AKHQMADMUQMygvegUIARD8AQ..i&docid=oUPY6znm7cKsjM&w=2400&h=800&itg=1&q=trustswap&ved=2ahUKEwiB2ZSevfjrAhUsm-AKHQMADMUQMygvegUIARD8AQ) TRUSTSWAP Case Study
+# ![ts](https://s2.coinmarketcap.com/static/img/coins/200x200/5829.png) TRUSTSWAP Case Study
 
 ## Overview
 
