@@ -2,9 +2,9 @@
 
 ## Overview
 
-* Company Name: **12170639 Canada Inc. DBA. TrustSwap (TS)**
-* Incorporation: **TrustSwap is an LLC Founded in 2020**
-* Founders: **Jeff Kirdekis - Founding Director & CEO, Adam Barlam - Founding Director and CTO, Joaquim Miro - Founding Director & CGO**
+* **Company Name:** 12170639 Canada Inc. DBA. TrustSwap (TS)
+* **Incorporation:** TrustSwap is an LLC Founded in 2020
+* **Founders:** Jeff Kirdekis - Founding Director & CEO, Adam Barlam - Founding Director and CTO, Joaquim Miro - Founding Director & CGO
 
 
 * The CEO of Trustswap, JHeff Kirdekis describes how Trustswap got its start on pg 4 of the [whitepaper](https://pdfhost.io/v/7kEISzHai_Trust_Swap_WP_1_1pdf.pdf).
@@ -13,7 +13,7 @@
 - Jeff Kirdeikis, CEO
 
 
-* Company is funded by token sales
+* **Funding:** Company is funded by token sales
 
 ## Business ACtivities
 
