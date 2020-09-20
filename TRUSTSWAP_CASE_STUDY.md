@@ -1,5 +1,5 @@
-# TRUSTSWAP Case Study
 ![ts](https://s2.coinmarketcap.com/static/img/coins/200x200/5829.png) 
+# TRUSTSWAP Case Study
 
 ## Overview
 
