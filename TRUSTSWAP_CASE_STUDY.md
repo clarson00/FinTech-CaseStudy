@@ -29,14 +29,14 @@
 \- Jeff Kirdeikis, CEO
 
 
-TrustSwap is targeting both institutional and retail crypto users globally. For insitutional customers, new project crypto launches are expensive. TrustSwap greatly reduces costs through its wrapping service while building in token lockups and distribution schemes that allow investors to have confidence in distribution plans and that tokens will not be dumped on the market by pre-sale, founder coin, etc. In addition to new token and project launches, all of these services are a regular part of doing business in the finanaical world and are being brought to the Crypto space as a service by TrustSwap as a first mover.
+TrustSwap is targeting both institutional and retail crypto users globally. For insitutional customers, new project crypto launches are expensive. TrustSwap greatly reduces costs through its wrapping service while building in token lockups and distribution schemes that allow investors to have confidence in distribution plans and that tokens will not be dumped on the market by pre-sale, founder coin, etc. As stated in pg 4 of the TrustSwap Whitepaper by the CEO, these traditional fees for these tpye of agreements are insane and moving them into smart contracts greatly reduces costs. In addition to new token and project launches, all of these services are a regular part of doing business in the finanaical world and are being brought to the Crypto space as a service by TrustSwap as a first mover.
 
-For the retail crypto users, all of these products can be used individually, outside of the TrustLaunch service. The retail recurring paments industry alone is a multibillion dollar market and according to  ResearchAndMarkets.com U.S. Recurring Payments Market Forecast, 2017-2021, "Recurring transactions processed on debit and credit cards in the United States are expected to reach $473 billion by 2021".
+For the retail crypto users, all of these products can be used individually, outside of the TrustLaunch service. 
 
 
 
 ## Landscape
-
+The retail recurring paments industry alone is a multibillion dollar market and according to  ResearchAndMarkets.com U.S. Recurring Payments Market Forecast, 2017-2021, "Recurring transactions processed on debit and credit cards in the United States are expected to reach $473 billion by 2021". TrustSwap is a first mover int he Crypto markets and will be well position to capture this market as it merges with the cryptoverse. In addition, TrusSwap has mentioned asn api service. This may allow merchants to easily allow traditional customers to make or take payments in crypto on a subsrciption basis or even larger players for example PayPal or systems like it. As these players enter the crypto market, there will be a way to integrate subscription payments more immeditaly then needing to develop their own.
 
 
 ## Results
