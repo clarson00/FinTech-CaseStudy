@@ -14,14 +14,13 @@
     
     \- Jeff Kirdeikis, CEO
     
-    _"To automate and simplify the transaction process between people and/or organizations around the world through the use of well-built decentralized finance applications, eliminating the need for middlemen and 3rd party intermediaries."_
-    
-    \- Jeff Kirdeikis, CEO
-
-
 * **Funding:** Company is funded by token sales
 
 ## Business ACtivities
+
+    _"To automate and simplify the transaction process between people and/or organizations around the world through the use of well-built decentralized finance applications, eliminating the need for middlemen and 3rd party intermediaries."_
+    
+    \- Jeff Kirdeikis, CEO
 
 * **TS SmartLock are Time or event based crypto lockups and payments.**
 * **TS SmartSwap will allow reliable trustless escrow based transactions including OTC trades.**
