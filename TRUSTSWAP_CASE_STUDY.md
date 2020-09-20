@@ -14,7 +14,7 @@
 
 ## Business ACtivities
 
-**Crypto escrow for retail and instituion. 
+* _Crypto escrow for retail and instituion. 
 * Time or event based crypto lockups and payments.
 * Subscriptipon based payments.
 * Crypto Launchpad and token wrapping.
