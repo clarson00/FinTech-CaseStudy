@@ -24,11 +24,23 @@
 
 * **TS SmartLock are Time or event based crypto lockups and payments.**
 * **TS SmartSwap will allow reliable trustless escrow based transactions including OTC trades.**
-* **TS SmartSubscription will allow recurring crypto payments.**
+* **TS SmartSubscription will allow recurring crypto payments. For examples, bill payments or allowances.**
+* **TS SmartLaunch & SmartWrap Crypto launchpad. This service allows projects to wrap, launch, and lock OTC funding while securing time-based or event based distribution locks to ensure distribution cannot be dumped on the market. These servies will eventually be offered outside of the SmartLaunch service**
 
-     For examples, bill payments or allowances.
-* **TS SmartLaunch & SmartWrap Crypto launchpad.**
+TrustSwap is targeting both institutional and retasil crypto users. For insitutional customers, new project crypto launchnes are expensive. TrustSwap greatly reduces this costs while building in token lockups and distribution schemes that allow investors to have confidence in distribution plans and that tokens will not be dumped on the market by pre-sale, founder coin, etc. In addition to launches, all of these services are a regualr part of doing business in the finanaical world and are being brought to the Crypto space as a service by TrustSwap.
 
-    This service allows projects to wrap, launch, and lock OTC funding while securing time-based or event based distribution locks to ensure distribution cannot be dumped on the market. These servies will eventually be offered outside of the SmartLaunch service.
+For the retail crypto users, all of these products can be used individually, outside of the TrustLaunch service.
 
-The target customer for trustswap is any consumer be they retail or intitutional who relies on these types of services but is currently paying much higher rates and fees to attorneys, and other entities to create agreements that could be done using TrustSwap services for less costs, paperwork, and obverhead in general. It could also be argued that the smart contract means of agreement can be more reliable than traditional services.
+## Landscape
+
+
+
+## Results
+
+
+
+## Recommendations
+
+
+
+
