@@ -18,8 +18,8 @@
 
 ## Business ACtivities
 
-    _"To automate and simplify the transaction process between people and/or organizations around the world through the use of well-built decentralized finance applications, eliminating the need for middlemen and 3rd party intermediaries."_
-    
+*"To automate and simplify the transaction process between people and/or organizations around the world through the use of well-built decentralized finance applications, eliminating the need for middlemen and 3rd party intermediaries."*
+
     \- Jeff Kirdeikis, CEO
 
 * **TS SmartLock are Time or event based crypto lockups and payments.**
