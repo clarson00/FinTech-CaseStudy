@@ -1,14 +1,17 @@
-# TRUSTSWAP 
+# TRUSTSWAP Case Study
 
 ## Overview
 
-* Trustswap
+* 12170639 Canada Inc. DBA. TrustSwap (TS)
+* TrustSwap is an LLC Founded in 2020
+* Founders: Jeff Kirdekis - Founding Director & CEO, Adam Barlam - Founding Director and CTO, Joaquim Miro - Founding Director & CGO
 
-* Incorporated
 
-* Founders: Jeff Kirdekis & Adam Barlam
+* The CEO of Trustswap, JHeff Kirdekis describes how Trustswap got its start on pg 4 of the whitepaper. [whitepaper](https://pdfhost.io/v/7kEISzHai_Trust_Swap_WP_1_1pdf.pdf)
+ “A Venture Capital firm wanted to invest $50,000 in exchange for project tokens at a discount. Our company wanted to make sure that once the tokens were sent, they wouldn’t sell them all at once and crash the token price. The only way to ensure this was to hire a lawyer to act as a middleman, who would send fractional amounts of the tokens to the VC firm over time for a 5-10% fee. Absolute insanity. I figured there had to be something already created that implemented this service in a smart-contract, for a fraction of the cost. There wasn’t. Infact,     there was nothing that allowed for time-based payments at all. No trustless  escrow  for  institutions,  no  trustless  team-token  lockups,  no  automated employee payments... nothing. That realization happened on June 19th 2020. Here we are today. Welcome to TrustSwap.” - Jeff Kirdeikis, CEOTo automate and simplify the transaction process between people and/or organizations around the world through the use of well-built decentralized finance applications, eliminating the need for middlemen and 3rd party intermediaries."
 
-* JEff had been working on previous projkects where an investor wanted to invest pre-ico tokens. Thew prject did not wanmt these toikes dumped by the investor so they drafted a distribution agreement. The costs of this were very high and would include escrow and an attorney who would take 5% at evewry distribution. Jeff realized almost all of this could be done via smart contracts.
+- Jeff Kirdeikis, CEO
+
 
 * Company is funded by token sales
 
@@ -18,3 +21,6 @@
 * Time or event based crypto lockups and payments.
 * Subscriptipon based payments.
 * Crypto Launchpad and token wrapping.
+
+
+
