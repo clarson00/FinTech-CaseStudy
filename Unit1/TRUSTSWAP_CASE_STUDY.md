@@ -46,7 +46,7 @@ For the retail crypto users, all of these products can be used individually, out
 
 
 ## Landscape
-The retail recurring payments industry is a multibillion dollar market and according to  ResearchAndMarkets.com U.S. Recurring Payments Market Forecast, 2017-2021, "Recurring transactions processed on debit and credit cards in the United States are expected to reach $473 billion by 2021".[^1] TrustSwap is a first mover in the Crypto markets and will be well positioned to capture both the consumer market and insitutional markets as they emerge within the cryptoverse. In addition, TrusSwap has mentioned an api service. This will allow other payment processors to easily integrate crypto recurring payments into their platforms.
+The retail recurring payments industry is a multibillion dollar market and according to  ResearchAndMarkets.com U.S. Recurring Payments Market Forecast, 2017-2021, "Recurring transactions processed on debit and credit cards in the United States are expected to reach $473 billion by 2021".[report][1] TrustSwap is a first mover in the Crypto markets and will be well positioned to capture both the consumer market and insitutional markets as they emerge within the cryptoverse. In addition, TrusSwap has mentioned an api service. This will allow other payment processors to easily integrate crypto recurring payments into their platforms.
 
 
 ## Results
@@ -57,10 +57,9 @@ TrustSwap is a startup and has only made an official release of its products rec
 ## Recommendations
 Make an API for everything so that other developers can choose to integrate Trustswap services into thier own product and services.
 
+___
 
-
-
-[^1]:U.S. Recurring Payments Market Forecast, 2017-2021: The Rise of the Recurring and Subscription Payments Market - ResearchAndMarkets.com
+[1]:U.S. Recurring Payments Market Forecast, 2017-2021: The Rise of the Recurring and Subscription Payments Market - ResearchAndMarkets.com
 https://www.businesswire.com/news/home/20181120005407/en/U.S.-Recurring-Payments-Market-Forecast-2017-2021-Rise
 
 TrustSwap Website
