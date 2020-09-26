@@ -61,7 +61,6 @@ ___
 
 [^1]: U.S. Recurring Payments Market Forecast, 2017-2021: The Rise of the Recurring and Subscription Payments Market - ResearchAndMarkets.com https://www.businesswire.com/news/home/20181120005407/en/U.S.-Recurring-Payments-Market-Forecast-2017-2021-Rise
 
-TrustSwap Website
+[TrustSwap Website](https://trustswap.org)
 
-
-TrustSwap Whitepaper
+[TrustSwap whitepaper](https://pdfhost.io/v/7kEISzHai_Trust_Swap_WP_1_1pdf.pdf)
