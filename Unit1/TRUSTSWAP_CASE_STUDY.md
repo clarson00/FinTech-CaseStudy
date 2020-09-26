@@ -59,8 +59,7 @@ Make an API for everything so that other developers can choose to integrate Trus
 
 ___
 
-[^1]: U.S. Recurring Payments Market Forecast, 2017-2021: The Rise of the Recurring and Subscription Payments Market - ResearchAndMarkets.com
-[^1]: https://www.businesswire.com/news/home/20181120005407/en/U.S.-Recurring-Payments-Market-Forecast-2017-2021-Rise
+[^1]: U.S. Recurring Payments Market Forecast, 2017-2021: The Rise of the Recurring and Subscription Payments Market - ResearchAndMarkets.com https://www.businesswire.com/news/home/20181120005407/en/U.S.-Recurring-Payments-Market-Forecast-2017-2021-Rise
 
 TrustSwap Website
 
