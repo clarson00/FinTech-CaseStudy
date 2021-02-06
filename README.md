@@ -5,7 +5,6 @@
 
 CCIE, PMP, Python
 
-Trying NOT to work to hard
 
 ### Table of Content
 [Code](https://github.com/clarson00/fintech_case_study/tree/master/code)
